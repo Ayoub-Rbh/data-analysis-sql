@@ -58,10 +58,11 @@ Over the next few weeks, we will undertake the following tasks:
 
 **Tasks:**
 
-Load the dataset into your preferred analysis tool.
+- Load the dataset into your preferred analysis tool.
 
-Explore the foundational tables and their structures.
-Identify key variables and their relationships.
+- Explore the foundational tables and their structures.
+  
+- Identify key variables and their relationships.
 
 ## Week 2: In-depth Data Analysis
 
@@ -69,22 +70,23 @@ Identify key variables and their relationships.
 
 **Tasks:**
 
-Use SELECT queries to explore data sources.
+- Use SELECT queries to explore data sources.
 
-Analyze visit patterns to various water sources.
+- Analyze visit patterns to various water sources.
 
-Document initial findings and potential areas of interest.
+- Document initial findings and potential areas of interest.
 
 ## Week 3: Water Quality and Pollution Analysis
 
 **Objective:** Focus on water quality and pollution issues.
 
 **Tasks:**
-Analyze water quality scores and trends.
 
-Correct pollution data using LIKE and string operations.
+- Analyze water quality scores and trends.
 
-Identify key pollution issues and their impact.
+- Correct pollution data using LIKE and string operations.
+
+- Identify key pollution issues and their impact.
 
 ## Week 4: Insight Generation and Reporting
 
@@ -92,23 +94,23 @@ Identify key pollution issues and their impact.
 
 **Tasks:**
 
-Compile findings from previous weeks.
+- Compile findings from previous weeks.
 
-Generate insights related to water quality, accessibility, and pollution.
+- Generate insights related to water quality, accessibility, and pollution.
 
-Prepare a comprehensive report summarizing the insights and recommendations.
+- Prepare a comprehensive report summarizing the insights and recommendations.
 
 ## Week 5: Actionable Recommendations
 
 **Objective:** Develop data-driven recommendations to improve water services.
 
 **Tasks:**
+ 
+- Create actionable plans based on insights.
 
-Create actionable plans based on insights.
+- Outline steps for implementation and potential impact.
 
-Outline steps for implementation and potential impact.
-
-Present recommendations to the team.
+- Present recommendations to the team.
 
 ## License
 
